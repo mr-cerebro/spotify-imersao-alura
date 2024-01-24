@@ -4,4 +4,4 @@
 
 Nesse primeiro dia, construímos o __Sidebar__ aplicando algumas técnicas de HTML, CSS e CSS Flexbox
 
-[Sidebar](./assets/images/sidebar-primeira-aula.jpg)
+[Sidebar](/assets/images/sidebar-primeira-aula.jpg)
