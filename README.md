@@ -6,7 +6,7 @@ Aprenda na prática e vá além do básico em **Front-end**
 
 ### 🚀 Tecnologias utilizadas
 
-O projeto está sendo desenvolvido com
+O projeto está sendo desenvolvido com as seguintes tecnologias
 
 - HTML5;
 - CSS3;
