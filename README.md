@@ -1,4 +1,4 @@
-# Imersão Front-end da Alura
+# IMERSÃO FRONT-END DA ALURA
 
 ## :bulb: Sobre o projeto
 
