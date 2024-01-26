@@ -36,7 +36,7 @@ Neste segundo dia, aperfeiçoei meus conhecimentos em posicionamento, estilizaç
 
 ### 📚 Conteúdo Abordado
 
-- Aprendi em profundidade como posicionar elementos de forma dinâmica usando propriedades como `display`, `justify` e `flex-shrink`. Isso abriu novas possibilidades para criar designs mais sofisticados e adaptáveis.
+- Aprendi em profundidade como posicionar elementos de forma dinâmica usando propriedades como `display`, `justify-content` e `flex-shrink`. Isso abriu novas possibilidades para criar designs mais sofisticados e adaptáveis.
 
 - Revisitamos também conceitos importantes como caixas de modelo e trabalhamos com unidades relativas como rem e em.
 
