@@ -4,6 +4,14 @@
 
 Aprenda na prática e vá além do básico em **Front-end**
 
+### 🚀 Tecnologias utilizadas
+
+O projeto está sendo desenvolvido com
+
+- HTML5;
+- CSS3;
+- CSS Flexbox.
+
 ## Aula 1 - REVISÃO: HTML, CSS E JS NA PRÁTICA
 
 Nesta aula, começamos o nosso projeto da recriação da página inicial do Spotify por meio do HTML e do CSS, aprenda atalhos, recursos e as diferenças entre os códigos.
